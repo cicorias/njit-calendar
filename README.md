@@ -5,6 +5,7 @@
 | Class                                 | Item                  | Date       | Days Till |
 |---------------------------------------|-----------------------|------------|-----------|
 | CS 608 Cryptography and Security      | Which block cipher mode is most secure/efficient for AES?                         | 09/26/21 | 7   |
+| CS 656 Internet and Security                                   | Module 2 (9/15-9/30) Read Chapter 2 of the text: <br/>9/15-9/22: Lecture [videos](https://gaia.cs.umass.edu/kurose_ross/videos/2/) 2.1 to 2.4 here (Links to an external site.).: <br/>9/22-9/30: Lecture [videos](https://gaia.cs.umass.edu/kurose_ross/videos/2/) 2.5 to 2.7, same link as above Assignments <br/>Please complete the assignments posted in the "Assignments" section | 09/30/21 | TBD |
 | CS 608 Cryptography and Security      | Why is ciphertext indistinguishability important for practical systems?           | 10/03/21 | 14   |
 | CS 608 Cryptography and Security      | Quiz                                                                              | 10/11/21 | 21    |
 | CS 608 Cryptography and Security      | Why are “difficult” mathematical problems important for public key cryptography?  | 10.17.21 | 28   |
