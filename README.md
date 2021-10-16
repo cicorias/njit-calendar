@@ -11,6 +11,7 @@
 | CS 608 Cryptography and Security      | Quiz                                                                              | 10/11/21 | 21    |
 | CS 608 Cryptography and Security      | Why are “difficult” mathematical problems important for public key cryptography?  | 10.17.21 | 28   |
 | CS 608 Cryptography and Security      | Midterm                                                                           | 10/21/21 | 32   |  
+| CS 656 Network and Protocols          | Assignment P2                                                                     | 10/29/21 | 14 |
 | CS 608 Cryptography and Security      | What are the advantages of elliptic curve cryptography over DLP/RSAbased protocols?                 | 10/31/21 | 42   |
 | CS 608 Cryptography and Security      | Discuss an application of access sharing protocols.                               | 11/07/21 | 49   |
 | CS 608 Cryptography and Security      | Discuss the zero-knowledge proof.                                                 | 11/14/21 | 56   |
